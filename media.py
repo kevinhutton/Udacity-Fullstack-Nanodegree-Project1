@@ -3,9 +3,6 @@
 # Udacity Fullstack Developer Nanodegree Project 1
 # August 2016
 
-import webbrowser
-
-
 class Movie():
     """ Used to represent Movie Objects
 
