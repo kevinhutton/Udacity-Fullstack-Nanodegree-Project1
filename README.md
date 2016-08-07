@@ -1,6 +1,8 @@
 
 Udacity Fullstack developer Nanodegree Project 1: Movie Trailer Website
 ================================
+The purpose of this project is to a generate a Movie Trailer website using Python OOP and HTML
+This was done as part of the Udacity Fullstack Web Developer Nanodegree program
 
 Required Libraries and Dependencies
 -----------------------------------
