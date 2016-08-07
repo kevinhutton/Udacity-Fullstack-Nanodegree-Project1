@@ -11,7 +11,6 @@ class Movie():
             storyline - Plot summary for the movie
             poster_image_url - URL pointing to poster image for the movie
             trailer_youtube_url - URL pointing to the youtube trailer for the movie
-
     """
 
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
