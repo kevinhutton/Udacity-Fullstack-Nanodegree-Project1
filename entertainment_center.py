@@ -49,4 +49,3 @@ movies = [godfather, star_wars, signs, batman_begins, lotr_two_towers]
 
 # Generate HTML page and populate with Movie objects
 fresh_tomatoes.open_movies_page(movies)
-
